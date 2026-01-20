@@ -26,7 +26,7 @@ To get this project running on your local machine, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SmitGhatole/Text-based-emotion-classifier-.git](https://github.com/SmitGhatole/Text-based-emotion-classifier-.git)
+    git clone [https://github.com/tanisha222/Text-Based-Emotion-Classification---Visualization]
     ```
 
 2.  **Navigate to the project directory:**
