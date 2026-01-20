@@ -1,0 +1,10 @@
+Pandas
+NumPy
+NLTK
+re
+Scikit-learn
+TensorFlow / Keras
+Flask
+pickle
+Matplotlib
+Seaborn
